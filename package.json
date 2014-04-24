@@ -1,0 +1,19 @@
+{
+  "name": "dist",
+  "version": "0.0.0",
+  "description": "Testing Google Distance Matrix API",
+  "main": "matrix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/dist.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/dist/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/dist"
+}
