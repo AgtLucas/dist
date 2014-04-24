@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/dist/issues"
   },
-  "homepage": "https://github.com/AgtLucas/dist"
+  "homepage": "https://github.com/AgtLucas/dist",
+  "dependencies": {
+    "google-distance": "^0.2.1"
+  }
 }
